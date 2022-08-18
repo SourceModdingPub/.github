@@ -1,2 +1,2 @@
-## What is Portal: Combat Testing Initiative?
+## The Science Team
 
