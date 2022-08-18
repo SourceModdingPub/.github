@@ -1,5 +1,5 @@
 # The Science Team
-<img src="https://c.tenor.com/3QRuWaTm0EEAAAAC/the-science-team-half-life.gif" width="500" height="500" />
+<img src="https://c.tenor.com/3QRuWaTm0EEAAAAC/the-science-team-half-life.gif" width="250" height="250" />
 
 ## Thanks goes to these wonderful people
 
