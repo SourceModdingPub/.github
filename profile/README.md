@@ -1,7 +1,10 @@
 # The Source Advocates
-<img src="https://c.tenor.com/M6Yi49wZpuwAAAAC/titanfall-wall-running.gif" width="600" height="500" />
+*Advocate is the alias given to a person, or persons, operating on The Frontier. Their allegiance is unknown in regards to the Frontier War, and are involved in supplying and helping both the IMC and Militia, through various means.*
+
 
 ## Thanks goes to these wonderful Source Advocates
+
+<img src="https://c.tenor.com/M6Yi49wZpuwAAAAC/titanfall-wall-running.gif" width="600" height="500" />
 
 <table>
   <tr>
