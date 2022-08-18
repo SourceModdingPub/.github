@@ -1,5 +1,5 @@
 # The Source Advocates
-<img src="https://c.tenor.com/M6Yi49wZpuwAAAAC/titanfall-wall-running.gif" width="1000" height="720" />
+<img src="https://c.tenor.com/M6Yi49wZpuwAAAAC/titanfall-wall-running.gif" width="600" height="500" />
 
 ## Thanks goes to these wonderful Source Advocates
 
