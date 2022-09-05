@@ -4,7 +4,7 @@
 
 ## Thanks goes to these wonderful Source Advocates
 
-<img src="https://c.tenor.com/M6Yi49wZpuwAAAAC/titanfall-wall-running.gif" width="600" height="500" />
+<img src="https://c.tenor.com/A8rfrx1u11YAAAAC/forge-blacksmiths.gif" width="600" height="500" />
 
 <table>
   <tr>
