@@ -1,5 +1,5 @@
 # The Source Advocates
-*Advocate is the alias given to a person, or persons, operating on The Frontier. Their allegiance is unknown in regards to the Frontier War, and are involved in supplying and helping both the IMC and Militia, through various means.*
+*Advocate is the alias given to a person, or persons, operating on the cutting edge of reverse engineering and modding efforts for the community at large.*
 
 
 ## Thanks goes to these wonderful Source Advocates
